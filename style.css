@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+img{
+    width: 200px;
+    border-radius: 100%;
+}
+#p1{
+    display: inline-block;
+    width: 600px;
+    border: double black;
+    background-color: darksalmon;
+}
+
+#p2{
+    display: inline-block;
+    width: 600px;
+    border: double black;
+    background-color: darksalmon;
+}
+
+#p3{
+    display: inline-block;
+    width: 600px;
+    border: double red;
+}
