@@ -33,4 +33,5 @@ img{
     display: inline-block;
     width: 600px;
     border: double red;
+    background-color: darksalmon;
 }
